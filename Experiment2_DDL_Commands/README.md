@@ -301,5 +301,9 @@ alter table Student_details add Country TEXT;
 ![image](https://github.com/user-attachments/assets/d77662df-626a-4c27-90d9-4f8487ba882e)
 
 
+<img width="1491" height="864" alt="image" src="https://github.com/user-attachments/assets/fc87d7cc-997c-49a0-b934-fb0834183972" />
+
+
+
 ## RESULT
 Thus, the SQL queries to implement different types of constraints and DDL commands have been executed successfully.
